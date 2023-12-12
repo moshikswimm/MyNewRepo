@@ -25,4 +25,8 @@ furnished to do so, subject to the following conditions:
 
 </SwmSnippet>
 
+token:
+
+<SwmToken path="/LICENSE" pos="7:4:4" line-data="in the Software without restriction, including without limitation the rights">`Software`</SwmToken>
+
 <SwmMeta version="3.0.0" repo-id="Z2l0aHViJTNBJTNBTXlOZXdSZXBvJTNBJTNBbW9zaGlrc3dpbW0=" repo-name="MyNewRepo"><sup>Powered by [Swimm](https://swimm-web-app.web.app/)</sup></SwmMeta>
