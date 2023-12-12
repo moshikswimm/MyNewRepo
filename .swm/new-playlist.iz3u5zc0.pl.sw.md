@@ -14,6 +14,7 @@ new playlist
 1. [First doc from the playlist](first-doc-from-the-playlist.wqce1zhs.sw.md)
 2. [Component or service overview](component-or-service-overview.svwr6kru.sw.md)
 3. [DocNum2](docnum2.jh389ch9.sw.md)
+4. [DocNum3](docnum3.35fp8cxw.sw.md)
 
 
 <br/>
