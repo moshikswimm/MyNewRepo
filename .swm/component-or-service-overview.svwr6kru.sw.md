@@ -13,11 +13,32 @@ The main features of {{COMPONENT NAME}} are:
 
 {{How can this component/service be accessed?}}
 
-<SwmSnippetPlaceholder>
+## 
 
-Select an example of accessing this component/service
+<SwmSnippet path="/.gitignore" line="4">
 
-</SwmSnippetPlaceholder>
+---
+
+snippet
+
+```
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+```
+
+---
+
+</SwmSnippet>
 
 ## Directory structure
 
