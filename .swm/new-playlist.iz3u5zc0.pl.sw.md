@@ -15,6 +15,7 @@ new playlist
 2. [Component or service overview](component-or-service-overview.svwr6kru.sw.md)
 3. [DocNum2](docnum2.jh389ch9.sw.md)
 4. [DocNum333](docnum333.35fp8cxw.sw.md)
+5. [Doc4](doc4.8nf4am3v.sw.md)
 
 
 <br/>
