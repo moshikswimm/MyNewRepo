@@ -1,6 +1,6 @@
 ---
 id: iz3u5zc0
-title: New Playlist
+title: New Playlistt
 file_version: 1.1.3
 app_version: 1.18.42
 ---
@@ -16,7 +16,7 @@ new playlist
 3. [DocNum2](docnum2.jh389ch9.sw.md)
 4. [DocNum333](docnum333.35fp8cxw.sw.md)
 5. [Doc4](doc4.8nf4am3v.sw.md)
-6. [DOC5](doc5.vvewzib3.sw.md)
+6. [DOC55](doc55.vvewzib3.sw.md)
 
 
 <br/>
