@@ -9,6 +9,8 @@ We use this API when {{use cases}}.
 
 ## API definition
 
+<SwmPath>[folder/](/folder/)</SwmPath>
+
 ## 
 
 <SwmSnippet path="/LICENSE" line="11">
