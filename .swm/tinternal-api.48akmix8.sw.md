@@ -35,26 +35,26 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 
 <SwmSnippetPlaceholder>
 
-Show a simple example of using this API
-
-</SwmSnippetPlaceholder>
-
-## Advanced usage: {{explain a scenario where this is needed}}
-
-<SwmSnippetPlaceholder>
-
 Show an advanced example of using this API
 
 </SwmSnippetPlaceholder>
 
-## Best practices and additional notes
+<SwmSnippetPlaceholder>
 
-When using this API, it is important to follow a few best practices and avoid some common mistakes.
+Show a simple example of using this API
+
+</SwmSnippetPlaceholder>
 
 <SwmSnippetPlaceholder>
 
 Show an example of a best practice and explain why it is important to implement the API this way
 
 </SwmSnippetPlaceholder>
+
+## Advanced usage: {{explain a scenario where this is needed}}
+
+## Best practices and additional notes
+
+When using this API, it is important to follow a few best practices and avoid some common mistakes.
 
 <SwmMeta version="3.0.0" repo-id="Z2l0aHViJTNBJTNBTXlOZXdSZXBvJTNBJTNBbW9zaGlrc3dpbW0=" repo-name="MyNewRepo"><sup>Powered by [Swimm](https://swimm-web-app.web.app/)</sup></SwmMeta>
