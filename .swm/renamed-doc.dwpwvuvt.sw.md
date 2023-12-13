@@ -1,7 +1,7 @@
 ---
 title: Renamed doc
 ---
-renamed doc
+jkjlbrenamed doc
 
 &nbsp;
 
